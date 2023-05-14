@@ -1,4 +1,4 @@
-# python_tkinter_projects
+# Python_Tkinter_Projects
 
 Python Tkinter Projects
 Welcome to my collection of Python projects built with Tkinter! Tkinter is a powerful GUI toolkit that comes with Python, allowing you to create attractive and functional graphical user interfaces with ease.
