@@ -8,7 +8,7 @@ Here are the projects included in this repository:
 
 Project 1: Encryption And Decryption App
 Project 2: Student Management System
-Project 3: Project Name
+Project 3: Calculator
 Each project has its own folder, containing the Python source code and any other files necessary to run the project. Please refer to the README.md file in each project folder for more information about the project and how to run it.
 
 Requirements
