@@ -20,7 +20,9 @@ Welcome to the **Python Tkinter Projects** repository! This repository contains 
      - User-friendly interface with numeric buttons and operators
      - Keyboard input support
    - Technologies: Python, Tkinter
-   - Demo: [Simple GUI Calculator Source Code](https://github.com/exampleuser/simple-calculator)
+   - Demo: [Simple GUI Calculator Source Code](https://github.com/alok-2002/python_tkinter_projects/CALCULATOR)
+   - ![image](https://github.com/Alok-2002/python_tkinter_projects/assets/93814546/df6db606-87a8-4e22-8f3f-003aa55d692a)
+
 
 3. **Advanced Student Management System**
    - Description: The Advanced Student Management System is a comprehensive application developed using Tkinter and MySQL database. It provides functionalities for managing student records efficiently. The system allows users to add new students, delete existing students, update student information, and search for student records based on various criteria. The application offers a user-friendly interface with intuitive controls for seamless data management.
