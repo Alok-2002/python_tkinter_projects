@@ -2,6 +2,9 @@
 
 The Encryption and Decryption software is a GUI application created with Python and tkinter. It uses base64 encoding and decoding to encrypt and decrypt user input. The software allows you to enter a message and a key, and then encrypt or decrypt the message using the key.
 
+![image](https://github.com/Alok-2002/python_tkinter_projects/assets/93814546/46ecd318-643a-4104-9195-763860150b91)
+
+
 ## Features
 
 - Encrypt a message using a key
