@@ -11,7 +11,7 @@ Welcome to the **Python Tkinter Projects** repository! This repository contains 
      - Message decryption using the same secret key
      - Clear and user-friendly interface
    - Technologies: Python, Tkinter, PyBase64
-   - Demo: [Code Vault Source Code](https://github.com/alok-2002/code-vault)
+   - Demo: [Code Vault Source Code](https://github.com/Alok-2002/python_tkinter_projects/tree/main/Code%20Vault%20App)
    - ![image](https://github.com/Alok-2002/python_tkinter_projects/assets/93814546/1d911815-00fc-4aa9-97c5-fdf3b5e03a07)
 
 
