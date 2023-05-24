@@ -59,7 +59,7 @@ def main_screen():
     screen = Tk()
     screen.geometry("375x398")
     screen.iconbitmap(r'C:\coding in different different languages\PYTHON\ENCRYPTION AND DECRYPTION\keys.ico')
-    screen.title("TEXT ENCRYPTION APP")
+    screen.title("Code Vault")
 
     def reset():
         code.set("")
