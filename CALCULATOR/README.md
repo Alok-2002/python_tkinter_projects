@@ -2,6 +2,9 @@
 
 This is a simple calculator created using Python and the tkinter library. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has a simple and user-friendly interface.
 
+![image](https://github.com/Alok-2002/python_tkinter_projects/assets/93814546/804e3c3a-7f1c-44d2-a498-e7ab8ff83d3a)
+
+
 ## Installation
 
 1. Clone this repository to your local machine.
