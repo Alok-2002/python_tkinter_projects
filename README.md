@@ -34,7 +34,9 @@ Welcome to the **Python Tkinter Projects** repository! This repository contains 
      - Update student information, including name, age, address, etc.
      - Search for student records based on various criteria
    - Technologies: Python, Tkinter, MySQL
-   - Demo: [Advanced Student Management System Source Code](https://github.com/exampleuser/student-management-system)
+   - Demo: [Advanced Student Management System Source Code](https://github.com/Alok-2002/python_tkinter_projects/tree/main/STUDENT%20REGISTRATION%20SYSTEM)
+   - ![Student Management System](https://github.com/Alok-2002/python_tkinter_projects/assets/93814546/47f41ce5-a2e3-461f-abd7-4c662997ce7f)
+
 
 ...
 
