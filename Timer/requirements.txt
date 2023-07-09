@@ -1,0 +1,4 @@
+tkinter
+math
+os
+pygame
